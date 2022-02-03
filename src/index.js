@@ -5,7 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  // Strict mode means what ever is in the block must not use deprecated and old features 
+  // deprecated means react team does not support the modules anymore
+  <React.StrictMode> 
     <App />
   </React.StrictMode>,
   document.getElementById('root')

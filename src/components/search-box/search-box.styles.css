@@ -1,0 +1,9 @@
+.form-control{
+    width:250px;
+    height:32px;
+    border-radius:5px;
+    border: 1px solid rgb(180, 180, 180);
+    display: block;
+    margin: 0 auto;
+    margin-bottom:20px ;
+  }

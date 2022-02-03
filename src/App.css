@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+
+h1{
+  font-family: 'roboto condensed', 'san-serif';
+  display: block;
+  margin-bottom: 24px;
+  color:#0ccac4;
+  font-size: 62px;
+
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
